@@ -7,8 +7,7 @@ This is a demo Android application developed in Kotlin that allows users to remo
 - Minimalist and user-friendly UI.
 - Supports communication with a FastAPI backend for processing.
 
-## Screenshots
-Add screenshots of your app here to showcase the UI and functionality.
+
 
 ## Prerequisites
 - Android Studio installed on your machine.
@@ -69,7 +68,9 @@ app.add_middleware(
 - **Frontend**: Kotlin, Android
 - **Backend**: FastAPI (Python)
 
-##Screenshot
+## Screenshots
+Add screenshots of app here to showcase the UI and functionality.
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
      <img src="https://github.com/user-attachments/assets/c387b48a-71c8-42b7-88de-4e0866fe71f5" width="48%">
   <img src="https://github.com/user-attachments/assets/61a5ea18-d809-4fb9-b77d-a5bd10c1bf46" width="48%">
