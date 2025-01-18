@@ -70,6 +70,7 @@ app.add_middleware(
 - **Backend**: FastAPI (Python)
 
 ##Screenshot
+<img src="https://github.com/user-attachments/assets/61a5ea18-d809-4fb9-b77d-a5bd10c1bf46" width="48">
 ![Screenshot_20250118_083140](https://github.com/user-attachments/assets/61a5ea18-d809-4fb9-b77d-a5bd10c1bf46){width=400px}
 ![Screenshot_20250118_082955](https://github.com/user-attachments/assets/c387b48a-71c8-42b7-88de-4e0866fe71f5){width=400px}
 ![Screenshot_20250118_083231](https://github.com/user-attachments/assets/682d81ce-53d0-4960-b9d5-404001821528){width=400px}
